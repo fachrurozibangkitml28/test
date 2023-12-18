@@ -1,0 +1,12 @@
+# Ignore unused folder
+/unused
+
+# Ignore Docker files
+Dockerfile
+.dockerignore
+
+# Ignore model file
+my_model_fix.h5
+
+# Ignore credentials file
+sa-lindungi-credentials.json
